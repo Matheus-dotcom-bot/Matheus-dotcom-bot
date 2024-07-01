@@ -9,4 +9,3 @@ Matheus-dotcom-bot/Matheus-dotcom-bot is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 <a href="https://app.rocketseat.com.br/me/matheus-boeira-pedroso"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=matheus-boeira-pedroso&type=card" width="280" alt="Matheus Boeira Pedroso's Rocket ID"/>
-<a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/107587178"/>
